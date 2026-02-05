@@ -80,7 +80,7 @@
 
 
 			<a
-				href="https://nomicon.illuminatedcorp.com"
+				href="https://nexus.illuminatedcorp.com"
 				class="nav-button font-bold hover:text-glow hover:!opacity-100"
 			>
 				Login
